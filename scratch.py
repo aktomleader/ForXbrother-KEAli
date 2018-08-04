@@ -1,3 +1,8 @@
+#这是一个专用工具
+#Version 1.1
+#By aktomleader
+#2018-08-04
+#Python v3.6.0:41df79263a11
 import openpyxl
 
 # 加载工作簿
